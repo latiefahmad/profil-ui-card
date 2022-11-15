@@ -214,6 +214,21 @@ a, a:hover {
     box-shadow: 0 4px 30px rgba(47, 253, 91, 0.6);
 }
 
+.profile-card-social-item.pintu{
+    background: linear-gradient(45deg, #5e04d4, #5a13ffc7);
+    box-shadow: 0 4px 30px rgba(65, 115, 255, 0.6);
+}
+
+.profile-card-social-item.ajaib{
+    background: linear-gradient(45deg, #025f29, #00e74dc7);
+    box-shadow: 0 4px 30px rgba(47, 253, 91, 0.6);
+}
+
+.profile-card-social-item.pluang{
+    background: linear-gradient(45deg, #5e04d4, #5a13ffc7);
+    box-shadow: 0 4px 30px rgba(65, 115, 255, 0.6);
+}
+
 .profile-card-ctr{
     display: flex;
     justify-content: center;
